@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Platino/static/css/main.70507284.chunk.css",
-    "main.js": "/Platino/static/js/main.2ff9fb11.chunk.js",
-    "main.js.map": "/Platino/static/js/main.2ff9fb11.chunk.js.map",
+    "main.js": "/Platino/static/js/main.f4356a90.chunk.js",
+    "main.js.map": "/Platino/static/js/main.f4356a90.chunk.js.map",
     "runtime-main.js": "/Platino/static/js/runtime-main.e8850085.js",
     "runtime-main.js.map": "/Platino/static/js/runtime-main.e8850085.js.map",
     "static/js/2.dca8622b.chunk.js": "/Platino/static/js/2.dca8622b.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.e8850085.js",
     "static/js/2.dca8622b.chunk.js",
     "static/css/main.70507284.chunk.css",
-    "static/js/main.2ff9fb11.chunk.js"
+    "static/js/main.f4356a90.chunk.js"
   ]
 }
