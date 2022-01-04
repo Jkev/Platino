@@ -1,7 +1,7 @@
 import "./App.css";
-import travel_01 from "./assets/travel-01.jpg";
-import travel_02 from "./assets/travel-02.jpg";
-import travel_03 from "./assets/travel-03.jpg";
+import travel_01 from "./assets/1.jpeg";
+import travel_02 from "./assets/2.jpeg";
+import travel_03 from "./assets/3.jpg";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Slider from "./components/Slider";
@@ -11,6 +11,7 @@ function App() {
     { url: "#", title: "Inicio" },
     { url: "#", title: "Nosotros" },
     { url: "#", title: "Cotizar" },
+    { url: "#", title: "Contacto" },
   ];
 
   return (
