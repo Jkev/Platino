@@ -27,8 +27,8 @@ function App() {
       />
       <Slider
         imageSrc={travel_03}
-        title={"Memories for a lifetime."}
-        subtitle={"Your dream vacation is only a few clicks away."}
+        title={"Salon 2"}
+        subtitle={"Un salon de en sueño."}
         flipped={true}
       />
     </div>
