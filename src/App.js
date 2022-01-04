@@ -20,9 +20,9 @@ function App() {
       <Hero imageSrc={travel_01} />
       <Slider
         imageSrc={travel_02}
-        title={"Be an explorer."}
+        title={"Salon Sasago"}
         subtitle={
-          "Our platform offers a wide variety of unique travel locations!"
+          "es un espacio ideal para realizar todo tipo de eventos sociales, empresariales, estudiantiles y mucho más, cuenta con un diseño arquitectónico totalmente diferente, simulando un gran jardín exterior con toda comodidad y confort de un área totalmente cerrada y climatizada.es un espacio ideal para realizar todo tipo de eventos sociales, empresariales, estudiantiles y mucho más, cuenta con un diseño arquitectónico totalmente diferente, simulando un gran jardín exterior con toda comodidad y confort de un área totalmente cerrada y climatizada."
         }
       />
       <Slider
