@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/Platino/static/css/main.70507284.chunk.css",
-    "main.js": "/Platino/static/js/main.4eae20c2.chunk.js",
-    "main.js.map": "/Platino/static/js/main.4eae20c2.chunk.js.map",
-    "runtime-main.js": "/Platino/static/js/runtime-main.e8850085.js",
-    "runtime-main.js.map": "/Platino/static/js/runtime-main.e8850085.js.map",
-    "static/js/2.dca8622b.chunk.js": "/Platino/static/js/2.dca8622b.chunk.js",
-    "static/js/2.dca8622b.chunk.js.map": "/Platino/static/js/2.dca8622b.chunk.js.map",
-    "static/js/3.e808f35e.chunk.js": "/Platino/static/js/3.e808f35e.chunk.js",
-    "static/js/3.e808f35e.chunk.js.map": "/Platino/static/js/3.e808f35e.chunk.js.map",
+    "main.css": "/Platino/static/css/main.ea0bc550.chunk.css",
+    "main.js": "/Platino/static/js/main.099865e0.chunk.js",
+    "main.js.map": "/Platino/static/js/main.099865e0.chunk.js.map",
+    "runtime-main.js": "/Platino/static/js/runtime-main.0795199f.js",
+    "runtime-main.js.map": "/Platino/static/js/runtime-main.0795199f.js.map",
+    "static/js/2.bb0e02d5.chunk.js": "/Platino/static/js/2.bb0e02d5.chunk.js",
+    "static/js/2.bb0e02d5.chunk.js.map": "/Platino/static/js/2.bb0e02d5.chunk.js.map",
+    "static/js/3.b41182f8.chunk.js": "/Platino/static/js/3.b41182f8.chunk.js",
+    "static/js/3.b41182f8.chunk.js.map": "/Platino/static/js/3.b41182f8.chunk.js.map",
     "index.html": "/Platino/index.html",
-    "static/css/main.70507284.chunk.css.map": "/Platino/static/css/main.70507284.chunk.css.map",
-    "static/js/2.dca8622b.chunk.js.LICENSE.txt": "/Platino/static/js/2.dca8622b.chunk.js.LICENSE.txt",
+    "static/css/main.ea0bc550.chunk.css.map": "/Platino/static/css/main.ea0bc550.chunk.css.map",
+    "static/js/2.bb0e02d5.chunk.js.LICENSE.txt": "/Platino/static/js/2.bb0e02d5.chunk.js.LICENSE.txt",
     "static/media/1.d0843629.jpeg": "/Platino/static/media/1.d0843629.jpeg",
     "static/media/2.74abbaf4.jpeg": "/Platino/static/media/2.74abbaf4.jpeg",
-    "static/media/3.b1151d40.jpg": "/Platino/static/media/3.b1151d40.jpg"
+    "static/media/3.b1151d40.jpg": "/Platino/static/media/3.b1151d40.jpg",
+    "static/media/6.051562c9.JPEG": "/Platino/static/media/6.051562c9.JPEG"
   },
   "entrypoints": [
-    "static/js/runtime-main.e8850085.js",
-    "static/js/2.dca8622b.chunk.js",
-    "static/css/main.70507284.chunk.css",
-    "static/js/main.4eae20c2.chunk.js"
+    "static/js/runtime-main.0795199f.js",
+    "static/js/2.bb0e02d5.chunk.js",
+    "static/css/main.ea0bc550.chunk.css",
+    "static/js/main.099865e0.chunk.js"
   ]
 }
