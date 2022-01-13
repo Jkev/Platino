@@ -5,6 +5,8 @@ import travel_03 from "./assets/3.jpg";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Slider from "./components/Slider";
+import Eventos from "./components/Eventos";
+import Form from "./components/Form";
 
 function App() {
   const navbarLinks = [
@@ -31,6 +33,19 @@ function App() {
         subtitle={"Un salon de en sueño."}
         flipped={true}
       />
+      <Eventos
+        
+        title={"Salon 3"}
+        subtitle={"Este es el tercer salon donde hacen pruebas"}
+        flipped={true}
+      />
+
+      <Form 
+      title={"Salon 3"}
+      subtitle={"Este es el tercer salon donde hacen pruebas"}
+      flipped={true}
+      />
+      
     </div>
   );
 }
