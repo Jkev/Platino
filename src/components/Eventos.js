@@ -64,8 +64,7 @@ const Eventos = ({ imageSrc, title, subtitle, flipped }) => {
           Sasago
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+          lo que yo quiera poner en este te
         </Typography>
       </CardContent>
       <CardActions>
