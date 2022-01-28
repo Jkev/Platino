@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/Platino/static/css/main.c7268b27.chunk.css",
-    "main.js": "/Platino/static/js/main.c0c5872c.chunk.js",
-    "main.js.map": "/Platino/static/js/main.c0c5872c.chunk.js.map",
-    "runtime-main.js": "/Platino/static/js/runtime-main.5a534678.js",
-    "runtime-main.js.map": "/Platino/static/js/runtime-main.5a534678.js.map",
-    "static/js/2.25a32c66.chunk.js": "/Platino/static/js/2.25a32c66.chunk.js",
-    "static/js/2.25a32c66.chunk.js.map": "/Platino/static/js/2.25a32c66.chunk.js.map",
-    "static/js/3.9d6ef425.chunk.js": "/Platino/static/js/3.9d6ef425.chunk.js",
-    "static/js/3.9d6ef425.chunk.js.map": "/Platino/static/js/3.9d6ef425.chunk.js.map",
+    "main.css": "/Platino/static/css/main.4ad3e971.chunk.css",
+    "main.js": "/Platino/static/js/main.5a273e1b.chunk.js",
+    "main.js.map": "/Platino/static/js/main.5a273e1b.chunk.js.map",
+    "runtime-main.js": "/Platino/static/js/runtime-main.3c5792f4.js",
+    "runtime-main.js.map": "/Platino/static/js/runtime-main.3c5792f4.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Platino/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6e5d87d6.chunk.js": "/Platino/static/js/2.6e5d87d6.chunk.js",
+    "static/js/2.6e5d87d6.chunk.js.map": "/Platino/static/js/2.6e5d87d6.chunk.js.map",
+    "static/js/3.566031db.chunk.js": "/Platino/static/js/3.566031db.chunk.js",
+    "static/js/3.566031db.chunk.js.map": "/Platino/static/js/3.566031db.chunk.js.map",
     "index.html": "/Platino/index.html",
-    "static/css/main.c7268b27.chunk.css.map": "/Platino/static/css/main.c7268b27.chunk.css.map",
-    "static/js/2.25a32c66.chunk.js.LICENSE.txt": "/Platino/static/js/2.25a32c66.chunk.js.LICENSE.txt",
+    "static/css/2.0a9ec390.chunk.css.map": "/Platino/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4ad3e971.chunk.css.map": "/Platino/static/css/main.4ad3e971.chunk.css.map",
+    "static/js/2.6e5d87d6.chunk.js.LICENSE.txt": "/Platino/static/js/2.6e5d87d6.chunk.js.LICENSE.txt",
     "static/media/1.d0843629.jpeg": "/Platino/static/media/1.d0843629.jpeg",
     "static/media/2.74abbaf4.jpeg": "/Platino/static/media/2.74abbaf4.jpeg",
     "static/media/3.b1151d40.jpg": "/Platino/static/media/3.b1151d40.jpg",
+    "static/media/5.11bd7e79.jpg": "/Platino/static/media/5.11bd7e79.jpg",
     "static/media/6.051562c9.JPEG": "/Platino/static/media/6.051562c9.JPEG"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a534678.js",
-    "static/js/2.25a32c66.chunk.js",
-    "static/css/main.c7268b27.chunk.css",
-    "static/js/main.c0c5872c.chunk.js"
+    "static/js/runtime-main.3c5792f4.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6e5d87d6.chunk.js",
+    "static/css/main.4ad3e971.chunk.css",
+    "static/js/main.5a273e1b.chunk.js"
   ]
 }
